@@ -21,4 +21,5 @@ Cargo Commands.
 - `./target/debug/<program_name>` ---> run a program after `build` 🏃
 - `cargo run` ---> compile the code then run. 👏
 - `cargo check` ----> quickly checks your code to make sure it compiles but doesn't produce executable. ✅❓
-
+- `cargo update` ----> update a crate
+-  `cargo doc --open` ---> open docs locally . 🆒🆒
